@@ -1,0 +1,20 @@
+.card{
+    width: 401px;
+    padding: 56px 72px 70px;
+}
+.card img{
+    margin: 0px auto;
+}
+
+.card h3{
+    font-size: 32px;
+    color: #414040;
+    font-weight: 800px;
+    margin: 31px auto 24px auto ;
+}
+.card p{
+    font-size: 16px;
+    color: #707070;
+    line-height: 26px;
+    margin-bottom: 32px;
+}
